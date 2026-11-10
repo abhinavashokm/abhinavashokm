@@ -70,4 +70,4 @@ A Sentry-style error tracking and incident response platform, built as a six-ser
 
 I am happy to discuss opportunities, collaborations, or my projects.
 
-**Email:** abhinavashokm@gmail.com · **LinkedIn:** [YOUR-LINKEDIN](https://www.linkedin.com/in/abhinav-ashok-m/)
+**Email:** abhinavashokm@gmail.com · **LinkedIn:** (https://www.linkedin.com/in/abhinav-ashok-m/)
