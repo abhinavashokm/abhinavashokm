@@ -16,7 +16,7 @@
 
 ## About
 
-I am a Python-focused full-stack developer based in India, with a focus on backend engineering. I build multi-tenant systems, real-time features, and asynchronous pipelines, and I care about clean service boundaries, correctness, and testability.
+I am a Python-focused full-stack developer based in Kerala, India, with a focus on backend engineering. I build multi-tenant systems, real-time features, and asynchronous pipelines, and I care about clean service boundaries, correctness, and testability.
 
 I am currently seeking **backend / full-stack developer roles**. I completed professional software training at Brototype and have built several projects end to end.
 
