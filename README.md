@@ -21,7 +21,7 @@ I am currently seeking **backend / full-stack developer roles**. I completed pro
 
 ## Featured Projects
 
-### [Teeming](https://github.com/YOUR-USERNAME/teeming)
+### [Teeming][(https://github.com/abhinavashokm/teeming-drf-react)]
 A multi-tenant SaaS platform that turns team ideas into measured outcomes: goals → ideas → upvotes → admin approval → planned board → progress tracking → outcome metrics.
 
 - Tenant-aware service-layer architecture with JWT authentication, RBAC, and tenant isolation
@@ -32,7 +32,7 @@ A multi-tenant SaaS platform that turns team ideas into measured outcomes: goals
 
 `Django` `DRF` `PostgreSQL` `Redis` `Celery` `React` `Tailwind` `React Query`
 
-### [Faultline](https://github.com/YOUR-USERNAME/faultline) · *In development*
+### [Faultline][(https://github.com/abhinavashokm/faultline-incident-platform))] · *In development*
 A Sentry-style error tracking and incident response platform, built as a six-service microservice system.
 
 - Event ingestion that acknowledges only after Kafka accepts, with idempotent persistence and a DLQ with replay
